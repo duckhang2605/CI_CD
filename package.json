@@ -2,5 +2,8 @@
     "scripts": {
         "start": "node src",
         "test": "jest src/app.test.js"
+    },
+    "devDependencies": {
+        "jest-cli": "^27.5.1"
     }
 }
