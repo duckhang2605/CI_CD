@@ -5,5 +5,8 @@
     },
     "devDependencies": {
         "jest-cli": "^27.5.1"
+    },
+    "dependencies": {
+        "express": "^4.17.3"
     }
 }
